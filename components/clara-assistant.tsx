@@ -358,7 +358,7 @@ export function ClaraAssistant() {
           </svg>
         ) : (
           <img 
-            src="/Clara.jpeg" 
+            src="/Clara.png" 
             alt="Clara AI" 
             className="w-11 h-11 rounded-full object-cover"
           />
@@ -380,7 +380,7 @@ export function ClaraAssistant() {
             <div className="flex items-center gap-4">
               <div className="w-14 h-14 rounded-full bg-white/20 flex items-center justify-center overflow-hidden p-1">
                 <img 
-                  src="/Clara.jpeg" 
+                  src="/Clara.png" 
                   alt="Clara AI"
                   className="w-full h-full rounded-full object-cover"
                 />
