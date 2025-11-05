@@ -342,15 +342,15 @@ export function LandingPageContent() {
                 iconColor: "text-blue-500",
                 iconBg: "bg-blue-500/10",
                 title: "Upload Pitch",
-                description: "Upload a 3–4 minute video pitch, then run AI analysis before final submission.",
+                description: "Upload a 2 minute video pitch, the admin will provide a score upon approval.",
               },
               {
                 step: "02",
                 icon: BarChart3,
                 iconColor: "text-green-500",
                 iconBg: "bg-green-500/10",
-                title: "AI Scoring & Feedback",
-                description: "Receive objective feedback and parameter scores (confidence, creativity, clarity) from the AI.",
+                title: "Admin Scoring and feedback",
+                description: "Receive objective feedback and parameter scores from our admin team.",
               },
               {
                 step: "03",
@@ -358,7 +358,7 @@ export function LandingPageContent() {
                 iconColor: "text-purple-500",
                 iconBg: "bg-purple-500/10",
                 title: "Submission & Final Scorecard",
-                description: "Submit your refined pitch for a final AI-generated scorecard and ranking.",
+                description: "After you submit your refined pitch, an admin will approve it before assigning the final score and ranking.",
               },
               {
                 step: "04",
@@ -437,8 +437,8 @@ export function LandingPageContent() {
                 iconColor: "text-purple-500",
                 iconBg: "bg-purple-500/10",
                 hoverBorderColor: "rgb(168, 85, 247)",
-                title: "AI Pitch Analyzer",
-                description: "Advanced AI evaluates your pitch for clarity, uniqueness, and market fit.",
+                title: "Expert Pitch Review",
+                description: "Your pitch will be evaluated by an Admin for clarity, uniqueness, and market fit before a final score is assigned upon approval.",
               },
               {
                 icon: Globe,
